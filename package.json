@@ -14,6 +14,7 @@
     "fs": "0.0.1-security",
     "gm": "^1.23.1",
     "html5-media-converter": "0.0.2",
+    "image-size": "^0.6.3",
     "lodash": "^4.17.10",
     "multer": "^1.3.0",
     "path": "^0.12.7",
