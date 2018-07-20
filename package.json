@@ -1,6 +1,6 @@
 {
   "name": "sm-manage-files",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "SM files manage pkg",
   "main": "index.js",
   "author": "S&M",
